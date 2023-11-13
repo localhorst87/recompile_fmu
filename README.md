@@ -29,7 +29,7 @@ Flags:
 
 `-f` / `--fmu`: The absolute or relative path to your FMU you want to recompile
 
-`-h` / `--headers`: The absolute or relative path to the folder that contains the FMI2 
+`-h` / `--headers`: The absolute or relative path to the folder that contains the FMI2 headers
 
 ### Windows
 
