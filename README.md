@@ -2,7 +2,8 @@
 
 ## When to use this script?
 
-You have a [Functional Mockup Unit (FMU) 2.x](https://fmi-standard.org) that is missing binaries for you target system
+You have a [Functional Mockup Unit (FMU) 2.x](https://fmi-standard.org) that is missing binaries for your target system
+(e.g., it only has windows64 binaries, but you will need linux64 binaries as well)
 
 ## Precondition
 
